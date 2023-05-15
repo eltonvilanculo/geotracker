@@ -14,7 +14,7 @@
     "tk106B"
   ],
   "description": "A server for the 'GPS/GPRS Tracker' tk102, tk103, tk104 and 106",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "dependencies": {},
   "devDependencies": {
     "mocha": "~1.3.2",
