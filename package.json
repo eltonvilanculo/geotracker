@@ -3,6 +3,8 @@
   "name": "geotracker",
   "keywords": [
     "gps",
+    "gpstracker",
+    "tracker gps",
     "tracker",
     "gis",
     "tk102",
@@ -13,8 +15,8 @@
     "tk106",
     "tk106B"
   ],
-  "description": "A server for the 'GPS/GPRS Tracker' tk102, tk103, tk104 and 106",
-  "version": "0.0.4",
+  "description": "A server for the 'GPS/GPRS Focused on receive and send commands",
+  "version": "0.0.5",
   "dependencies": {},
   "devDependencies": {
     "mocha": "~1.3.2",
